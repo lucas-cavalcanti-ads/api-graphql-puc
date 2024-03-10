@@ -8,7 +8,7 @@ Certifique-se de ter o Node.js instalado em sua máquina.
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/api-graphql-gerenciamento-tarefas.git
+git clone https://github.com/lucas-cavalcanti-ads/api-graphql-puc.git
 ```
 
 Instale as dependências do projeto:
