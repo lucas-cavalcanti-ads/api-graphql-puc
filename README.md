@@ -1,3 +1,5 @@
+Ajustando para criar PR
+
 # API GraphQL de Gerenciamento de Tarefas
 
 Este projeto consiste em uma API GraphQL que fornece acesso a dados de uma aplicação fictícia de gerenciamento de tarefas. Os usuários podem realizar consultas e mutações para criar, listar e manipular tarefas.
